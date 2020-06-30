@@ -1,2 +1,0 @@
-# xstats.org
-WEBSITE FOR TIMEPASS
